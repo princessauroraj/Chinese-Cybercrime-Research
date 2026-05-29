@@ -143,7 +143,8 @@ Residential Proxy Services & Botnets
 
 Malware 
   * ZhongStealer  \
-    https://any.run/cybersecurity-blog/zhong-stealer-malware-analysis/  
+    https://any.run/cybersecurity-blog/zhong-stealer-malware-analysis/ \
+    https://bsky.app/profile/squiblydoo.bsky.social/post/3mjwerqal4m2p 
   * Void Arachne  \
     https://www.trendmicro.com/en_us/research/24/f/behind-the-great-wall-void-arachne-targets-chinese-speaking-user.html  
 
