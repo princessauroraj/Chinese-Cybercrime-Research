@@ -110,10 +110,13 @@ Guarantee Groups
     https://garwarner.blogspot.com/2025/09/chinese-guarantee-syndicates-and-fruit.html  
 
 Links to Chinese APTs  
-  * Contemporary APT Hackers Engaged in Crime \
+  * Contemporary APT Operators Moonlighting in Cybercrime \
   https://cloud.google.com/blog/topics/threat-intelligence/apt41-dual-espionage-and-cyber-crime-operation  \
   https://intrusiontruth.wordpress.com/2024/08/07/is-the-ccp-the-biggest-apt/  \
-  https://jsac.jpcert.or.jp/archive/2025/pdf/JSAC2025_1_1_steve_aragon_chi-yu.pdf  
+  https://www.security.com/threat-intelligence/chinese-espionage-ransomware \
+  https://i.blackhat.com/Asia-22/Friday-Materials/AS-22-Li-To-Loot-Or-Not-To-Loot-That-Is-Not-a-Question.pdf \
+  https://www.virusbulletin.com/uploads/pdf/conference/vb2024/papers/Down-the-GRAYRABBIT-hole-exposing-UNC3569-and-its-modus-operandi.pdf \
+  https://jsac.jpcert.or.jp/archive/2025/pdf/JSAC2025_1_1_steve_aragon_chi-yu.pdf 
   * Patriotic Hackers / Red Hackers \
   https://www.rusi.org/explore-our-research/publications/commentary/40-red-hackers-who-shaped-chinas-cyber-ecosystem  \
   https://github.com/curated-intel/CTI-fundamentals/blob/main/Archive/the-dark-visitor-inside-the-world-of-chinese-hackers.pdf  \
@@ -145,14 +148,14 @@ Malware
   * ZhongStealer  \
     https://any.run/cybersecurity-blog/zhong-stealer-malware-analysis/ \
     https://bsky.app/profile/squiblydoo.bsky.social/post/3mjwerqal4m2p 
-  * Silver Fox / Winos 4.0 \
+  * Silver Fox / Winos 4.0 
     - General \
       https://threatbook.io/blog/silver-fox-not-an-organization-but-a-tool-uncovering-the-underground-ecosystem
     - As deployed by "Void Arachne"  \
       https://www.trendmicro.com/en_us/research/24/f/behind-the-great-wall-void-arachne-targets-chinese-speaking-user.html
     - As deployed by GoldenEye Dog(APT-Q-27) \
       https://ti.qianxin.com/blog/articles/apt-q-27-gang-recent-use-of-silver-fox-trojan-stealing-activities-en/
-    - ValleyRAT \ 
+    - ValleyRAT \
       https://www.proofpoint.com/us/blog/threat-insight/chinese-malware-appears-earnest-across-cybercrime-threat-landscape
 
 Other Useful Resources \
