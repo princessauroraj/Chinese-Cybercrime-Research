@@ -145,8 +145,15 @@ Malware
   * ZhongStealer  \
     https://any.run/cybersecurity-blog/zhong-stealer-malware-analysis/ \
     https://bsky.app/profile/squiblydoo.bsky.social/post/3mjwerqal4m2p 
-  * Void Arachne  \
-    https://www.trendmicro.com/en_us/research/24/f/behind-the-great-wall-void-arachne-targets-chinese-speaking-user.html  
+  * Silver Fox / Winos 4.0 \
+    - General \
+      https://threatbook.io/blog/silver-fox-not-an-organization-but-a-tool-uncovering-the-underground-ecosystem
+    - As deployed by "Void Arachne"  \
+      https://www.trendmicro.com/en_us/research/24/f/behind-the-great-wall-void-arachne-targets-chinese-speaking-user.html
+    - As deployed by GoldenEye Dog(APT-Q-27) \
+      https://ti.qianxin.com/blog/articles/apt-q-27-gang-recent-use-of-silver-fox-trojan-stealing-activities-en/
+    - ValleyRAT \ 
+      https://www.proofpoint.com/us/blog/threat-insight/chinese-malware-appears-earnest-across-cybercrime-threat-landscape
 
 Other Useful Resources \
   https://en.wikipedia.org/wiki/Chinese_Internet_slang 
