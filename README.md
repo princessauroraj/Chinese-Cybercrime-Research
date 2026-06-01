@@ -23,7 +23,9 @@ Phishing
       https://catalyst.prodaft.com/public/report/lucid/overview  
     - CoGUI \
       https://www.proofpoint.com/us/blog/threat-insight/cogui-phish-kit-targets-japan-millions-messages  \
-      https://jsac.jpcert.or.jp/archive/2026/pdf/JSAC2026_2_2_%20shadow_liu-lime_chen-albert_song_en.pdf  
+      https://jsac.jpcert.or.jp/archive/2026/pdf/JSAC2026_2_2_%20shadow_liu-lime_chen-albert_song_en.pdf  \
+      https://urlscan.io/blog/2026/06/01/CnOrientalGudgeon/ \
+      https://urlscan.io/blog/2025/05/06/oriental-gudgeon/
     - Doggo/ xiū gǒu \
       https://www.netcraft.com/blog/doggo-threat-actor-analysis  
     - Sailor Framework  \
