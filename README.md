@@ -161,7 +161,10 @@ Malware
       https://www.proofpoint.com/us/blog/threat-insight/chinese-malware-appears-earnest-across-cybercrime-threat-landscape
   * AtlasRAT
     - Atlas RAT \
-      https://www.proofpoint.com/us/blog/threat-insight/ta4922-suspected-chinese-crime-group-going-global 
+      https://www.proofpoint.com/us/blog/threat-insight/ta4922-suspected-chinese-crime-group-going-global
+  * GoldFactory (Android & iOS Banking Trojans) \
+    https://www.group-ib.com/blog/goldfactory-ios-trojan/ \
+    https://www.group-ib.com/blog/turning-apps-into-gold/ 
   
 Other Useful Resources \
   https://en.wikipedia.org/wiki/Chinese_Internet_slang 
