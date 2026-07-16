@@ -125,6 +125,8 @@ Links to Chinese APTs
   https://www.nattothoughts.com/p/few-and-far-between-during-chinas  
 
 Residential Proxy Services & Botnets 
+  * Airports \
+    https://arxiv.org/pdf/2606.18427 
   * 911s5 \
     https://krebsonsecurity.com/2022/07/a-deep-dive-into-the-residential-proxy-service-911/  \
     https://krebsonsecurity.com/2024/05/treasury-sanctions-creators-of-911-s5-proxy-botnet/ \
@@ -142,14 +144,15 @@ Residential Proxy Services & Botnets
   * BADBOX \
     https://www.trendmicro.com/en_us/research/23/e/lemon-group-cybercriminal-businesses-built-on-preinfected-devices.html  \
     https://www.humansecurity.com/learn/blog/satori-threat-intelligence-disruption-badbox-2-0/  \
-    https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/  
+    https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/
   * Other \
     https://spur.us/blog/how-spur-uncovered-a-chinese-proxy-and-vpn-service-used-in-an-apt-campaign 
 
 Malware 
-  * ZhongStealer  \
+  * ZhongStealer / Golden Gh0st RAT  \
     https://any.run/cybersecurity-blog/zhong-stealer-malware-analysis/ \
-    https://bsky.app/profile/squiblydoo.bsky.social/post/3mjwerqal4m2p 
+    https://bsky.app/profile/squiblydoo.bsky.social/post/3mjwerqal4m2p \
+    https://expel.com/blog/introducing-cylindricalcanine/
   * Silver Fox / Winos 4.0 
     - General \
       https://threatbook.io/blog/silver-fox-not-an-organization-but-a-tool-uncovering-the-underground-ecosystem
