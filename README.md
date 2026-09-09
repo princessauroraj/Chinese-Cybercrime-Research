@@ -37,7 +37,8 @@ Phishing
   * Other \
     https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/ \
     https://urlscan.io/blog/2026/04/27/CnIntro/  \
-    https://www.group-ib.com/blog/toll-of-deception/  
+    https://www.group-ib.com/blog/toll-of-deception/  \
+    https://www.group-ib.com/blog/chenlun-outsider-phaas-kit/ 
 
 Carding/Money Laundering 
   * Ghost Tap \
@@ -122,8 +123,10 @@ Links to Chinese APTs
   * Patriotic Hackers / Red Hackers \
   https://www.rusi.org/explore-our-research/publications/commentary/40-red-hackers-who-shaped-chinas-cyber-ecosystem  \
   https://github.com/curated-intel/CTI-fundamentals/blob/main/Archive/the-dark-visitor-inside-the-world-of-chinese-hackers.pdf  \
-  https://www.nattothoughts.com/p/few-and-far-between-during-chinas  
-
+  https://www.nattothoughts.com/p/few-and-far-between-during-chinas
+  * Infrastructure Links \
+    https://intrusiontruth.wordpress.com/2026/07/27/dear-diary-today-i-found-a-ghost-in-the-network/ 
+  
 Residential Proxy Services & Botnets 
   * Airports \
     https://arxiv.org/pdf/2606.18427 
@@ -145,14 +148,16 @@ Residential Proxy Services & Botnets
     https://www.trendmicro.com/en_us/research/23/e/lemon-group-cybercriminal-businesses-built-on-preinfected-devices.html  \
     https://www.humansecurity.com/learn/blog/satori-threat-intelligence-disruption-badbox-2-0/  \
     https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/
-  * Other \
-    https://spur.us/blog/how-spur-uncovered-a-chinese-proxy-and-vpn-service-used-in-an-apt-campaign 
+  * Use in APT Campaigns \
+    https://spur.us/blog/how-spur-uncovered-a-chinese-proxy-and-vpn-service-used-in-an-apt-campaign \
+    https://www.lumen.com/blog/en-us/the-infrastructure-quartermaster-inside-a-china-nexus-state-enablement-model
 
 Malware 
   * ZhongStealer / Golden Gh0st RAT  \
     https://any.run/cybersecurity-blog/zhong-stealer-malware-analysis/ \
     https://bsky.app/profile/squiblydoo.bsky.social/post/3mjwerqal4m2p \
-    https://expel.com/blog/introducing-cylindricalcanine/
+    https://expel.com/blog/introducing-cylindricalcanine/ \
+    https://expel.com/blog/cylindricalcanine-and-cuboidalcanine/
   * Silver Fox / Winos 4.0 
     - General \
       https://threatbook.io/blog/silver-fox-not-an-organization-but-a-tool-uncovering-the-underground-ecosystem
@@ -167,7 +172,9 @@ Malware
       https://www.proofpoint.com/us/blog/threat-insight/ta4922-suspected-chinese-crime-group-going-global
   * GoldFactory (Android & iOS Banking Trojans) \
     https://www.group-ib.com/blog/goldfactory-ios-trojan/ \
-    https://www.group-ib.com/blog/turning-apps-into-gold/ 
+    https://www.group-ib.com/blog/turning-apps-into-gold/
+  * PackClient \
+    https://www.proofpoint.com/us/blog/threat-insight/carry-compromise-ta4922-packs-packclient
   
 Other Useful Resources \
   https://en.wikipedia.org/wiki/Chinese_Internet_slang 
